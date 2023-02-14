@@ -1,0 +1,16 @@
+D:\Dev\UE_Proj\Packages\SparseVolumetrics_ue5.1.1_0.6.5\SparseVolumetrics\HostProject\Plugins\SparseVolumetrics\Source\Runtime\Public\VdbBlueprintLibrary.h
+D:\Dev\UE_Proj\Packages\SparseVolumetrics_ue5.1.1_0.6.5\SparseVolumetrics\HostProject\Plugins\SparseVolumetrics\Source\Runtime\Public\VdbCommon.h
+D:\Dev\UE_Proj\Packages\SparseVolumetrics_ue5.1.1_0.6.5\SparseVolumetrics\HostProject\Plugins\SparseVolumetrics\Source\Runtime\Public\VdbMaterialActor.h
+D:\Dev\UE_Proj\Packages\SparseVolumetrics_ue5.1.1_0.6.5\SparseVolumetrics\HostProject\Plugins\SparseVolumetrics\Source\Runtime\Public\VdbSequenceComponent.h
+D:\Dev\UE_Proj\Packages\SparseVolumetrics_ue5.1.1_0.6.5\SparseVolumetrics\HostProject\Plugins\SparseVolumetrics\Source\Runtime\Public\VdbMaterialComponent.h
+D:\Dev\UE_Proj\Packages\SparseVolumetrics_ue5.1.1_0.6.5\SparseVolumetrics\HostProject\Plugins\SparseVolumetrics\Source\Runtime\Public\VdbVolumeStatic.h
+D:\Dev\UE_Proj\Packages\SparseVolumetrics_ue5.1.1_0.6.5\SparseVolumetrics\HostProject\Plugins\SparseVolumetrics\Source\Runtime\Public\VdbVolumeBase.h
+D:\Dev\UE_Proj\Packages\SparseVolumetrics_ue5.1.1_0.6.5\SparseVolumetrics\HostProject\Plugins\SparseVolumetrics\Source\Runtime\Public\VdbAssetComponent.h
+D:\Dev\UE_Proj\Packages\SparseVolumetrics_ue5.1.1_0.6.5\SparseVolumetrics\HostProject\Plugins\SparseVolumetrics\Source\Runtime\Public\VdbVolumeSequence.h
+D:\Dev\UE_Proj\Packages\SparseVolumetrics_ue5.1.1_0.6.5\SparseVolumetrics\HostProject\Plugins\SparseVolumetrics\Source\Runtime\Private\VdbPrincipledActor.h
+D:\Dev\UE_Proj\Packages\SparseVolumetrics_ue5.1.1_0.6.5\SparseVolumetrics\HostProject\Plugins\SparseVolumetrics\Source\Runtime\Private\VdbPrincipledComponent.h
+D:\Dev\UE_Proj\Packages\SparseVolumetrics_ue5.1.1_0.6.5\SparseVolumetrics\HostProject\Plugins\SparseVolumetrics\Source\Runtime\Private\VdbToDynamicMeshActor.h
+D:\Dev\UE_Proj\Packages\SparseVolumetrics_ue5.1.1_0.6.5\SparseVolumetrics\HostProject\Plugins\SparseVolumetrics\Source\Runtime\Private\VdbToVolumeTextureActor.h
+D:\Dev\UE_Proj\Packages\SparseVolumetrics_ue5.1.1_0.6.5\SparseVolumetrics\HostProject\Plugins\SparseVolumetrics\Source\Runtime\Private\VdbToVolumeTextureComponent.h
+D:\Dev\UE_Proj\Packages\SparseVolumetrics_ue5.1.1_0.6.5\SparseVolumetrics\HostProject\Plugins\SparseVolumetrics\Source\Runtime\Private\Niagara\NiagaraDataInterfaceVdb.h
+D:\Dev\UE_Proj\Packages\SparseVolumetrics_ue5.1.1_0.6.5\SparseVolumetrics\HostProject\Plugins\SparseVolumetrics\Source\Runtime\Private\Rendering\VdbDenoiser.h

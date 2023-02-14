@@ -1,0 +1,111 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "MovieSceneVolumeSection.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef VOLUMESEQUENCER_MovieSceneVolumeSection_generated_h
+#error "MovieSceneVolumeSection.generated.h already included, missing '#pragma once' in MovieSceneVolumeSection.h"
+#endif
+#define VOLUMESEQUENCER_MovieSceneVolumeSection_generated_h
+
+#define FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_29_GENERATED_BODY \
+	friend struct Z_Construct_UScriptStruct_FMovieSceneVolumeParams_Statics; \
+	VOLUMESEQUENCER_API static class UScriptStruct* StaticStruct();
+
+
+template<> VOLUMESEQUENCER_API UScriptStruct* StaticStruct<struct FMovieSceneVolumeParams>();
+
+#define FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_SPARSE_DATA
+#define FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_RPC_WRAPPERS
+#define FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_RPC_WRAPPERS_NO_PURE_DECLS
+#define FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_ACCESSORS
+#define FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_ARCHIVESERIALIZER \
+	DECLARE_FSTRUCTUREDARCHIVE_SERIALIZER(UMovieSceneVolumeSection, VOLUMESEQUENCER_API)
+
+
+#define FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMovieSceneVolumeSection(); \
+	friend struct Z_Construct_UClass_UMovieSceneVolumeSection_Statics; \
+public: \
+	DECLARE_CLASS(UMovieSceneVolumeSection, UMovieSceneSection, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/VolumeSequencer"), VOLUMESEQUENCER_API) \
+	DECLARE_SERIALIZER(UMovieSceneVolumeSection) \
+	FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_ARCHIVESERIALIZER
+
+
+#define FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_INCLASS \
+private: \
+	static void StaticRegisterNativesUMovieSceneVolumeSection(); \
+	friend struct Z_Construct_UClass_UMovieSceneVolumeSection_Statics; \
+public: \
+	DECLARE_CLASS(UMovieSceneVolumeSection, UMovieSceneSection, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/VolumeSequencer"), VOLUMESEQUENCER_API) \
+	DECLARE_SERIALIZER(UMovieSceneVolumeSection) \
+	FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_ARCHIVESERIALIZER
+
+
+#define FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	VOLUMESEQUENCER_API UMovieSceneVolumeSection(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMovieSceneVolumeSection) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(VOLUMESEQUENCER_API, UMovieSceneVolumeSection); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMovieSceneVolumeSection); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	VOLUMESEQUENCER_API UMovieSceneVolumeSection(UMovieSceneVolumeSection&&); \
+	VOLUMESEQUENCER_API UMovieSceneVolumeSection(const UMovieSceneVolumeSection&); \
+public: \
+	VOLUMESEQUENCER_API virtual ~UMovieSceneVolumeSection();
+
+
+#define FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	VOLUMESEQUENCER_API UMovieSceneVolumeSection(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	VOLUMESEQUENCER_API UMovieSceneVolumeSection(UMovieSceneVolumeSection&&); \
+	VOLUMESEQUENCER_API UMovieSceneVolumeSection(const UMovieSceneVolumeSection&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(VOLUMESEQUENCER_API, UMovieSceneVolumeSection); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMovieSceneVolumeSection); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMovieSceneVolumeSection) \
+	VOLUMESEQUENCER_API virtual ~UMovieSceneVolumeSection();
+
+
+#define FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_69_PROLOG
+#define FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_SPARSE_DATA \
+	FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_RPC_WRAPPERS \
+	FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_ACCESSORS \
+	FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_INCLASS \
+	FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_SPARSE_DATA \
+	FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_ACCESSORS \
+	FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_INCLASS_NO_PURE_DECLS \
+	FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h_73_ENHANCED_CONSTRUCTORS \
+static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class MovieSceneVolumeSection."); \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> VOLUMESEQUENCER_API UClass* StaticClass<class UMovieSceneVolumeSection>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_UE_Proj_Packages_SparseVolumetrics_ue5_1_1_0_6_5_SparseVolumetrics_HostProject_Plugins_SparseVolumetrics_Source_Sequencer_Classes_MovieSceneVolumeSection_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
