@@ -75,3 +75,6 @@ DerivedDataCache/*
 
 #Hololens
 Platforms/HoloLens
+
+#Plugins
+!Plugins/**
