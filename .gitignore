@@ -78,3 +78,6 @@ Platforms/HoloLens
 
 #Plugins
 Plugins/**
+
+#Apple fuckery
+*.DS_Store
