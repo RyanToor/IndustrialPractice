@@ -155,10 +155,6 @@
 		{
 			"Name": "Volumetrics",
 			"Enabled": true
-		},
-		{
-			"Name": "MayaLiveLink",
-			"Enabled": true
 		}
 	]
 }
