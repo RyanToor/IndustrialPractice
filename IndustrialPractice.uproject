@@ -146,13 +146,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "SparseVolumetrics",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
-		},
-		{
 			"Name": "Volumetrics",
 			"Enabled": true
 		},
